@@ -2,7 +2,7 @@
 
 # Hey, I'm Kosisochukwu 👋🤖
 
-### Building the future of robotics in Africa — one actuator at a time.
+### currently Building the future of robotics in Africa — one actuator at a time.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Robotics+%26+Embedded+Systems+Engineer+🤖;ML+%2F+Physical+Intelligence+Researcher+🧠;Full+Stack+%26+Backend+Developer+💻;Sim-to-Real+Gap+Closer+🌍;Africa's+Robotics+Revolution+Starts+Here+⚡)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@ kosisochukwu = {
     "fun_facts":   ["🥁 I love to drum", "🌳 I recharge under trees"],
     "motto":       "Bridge the gap. Ship the robot. 🚀"
 }
-```
+
 
 ---
 
