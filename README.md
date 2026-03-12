@@ -14,12 +14,12 @@
 
 ```python
 kosisochukwu = {
-    "role":        ["Robotics Engineer", "ML Engineer", "Full Stack Dev", "Embedded Systems"],
-    "mission":     "Building the biggest robotics startup in Africa 🌍",
-    "focus":       ["Physical Intelligence Models", "Actuation Optimization", "Sim-to-Real Transfer"],
-    "currently":   "Making robots move smarter, faster, and more efficiently",
-    "fun_facts":   ["🥁 I love to drum", "🌳 I recharge under trees"],
-    "motto":       "Bridge the gap. Ship the robot. 🚀"
+    role:        Robotics Engineer, ML Engineer, Full Stack Dev, Embedded Systems
+    mission:  Building the biggest robotics startup in Africa 🌍
+    focus:       Physical Intelligence Models, Actuation Optimization, Sim-to-Real Transfer
+    currently:   Making robots move smarter, faster, and more efficiently
+    fun_facts:   I love to drum, 🌳 I recharge under trees LOLOLO
+    motto:       Bridge the gap. Ship the robot. 
 }
 
 
