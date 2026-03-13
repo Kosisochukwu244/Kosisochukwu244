@@ -2,7 +2,7 @@
 
 # Hey, I'm Kosisochukwu 👋🤖
 
-### currently Building the future of robotics in Africa — one actuator at a time.
+### Building the future of robotics in Africa — one actuator at a time.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Robotics+%26+Embedded+Systems+Engineer+🤖;ML+%2F+Physical+Intelligence+Researcher+🧠;Full+Stack+%26+Backend+Developer+💻;Sim-to-Real+Gap+Closer+🌍;Africa's+Robotics+Revolution+Starts+Here+⚡)](https://git.io/typing-svg)
 
@@ -12,16 +12,13 @@
 
 ## 🧠 About Me
 
-```python
-kosisochukwu = {
-    role:        Robotics Engineer, ML Engineer, Full Stack Dev, Embedded Systems
-    mission:  Building the biggest robotics startup in Africa 🌍
-    focus:       Physical Intelligence Models, Actuation Optimization, Sim-to-Real Transfer
-    currently:   Making robots move smarter, faster, and more efficiently
-    fun_facts:   I love to drum, 🌳 I recharge under trees LOLOLO
-    motto:       Bridge the gap. Ship the robot. 
-}
+🤖 I'm **Kosisochukwu** — a Robotics & Embedded Systems Engineer, ML Researcher, and Full Stack Developer on a mission to build **the biggest robotics startup in Africa.**
 
+🌍 My work sits at the intersection of **physical intelligence**, **actuation optimization**, and **closing the sim-to-real gap** — making robots that don't just simulate well, but *work* in the real world.
+
+🥁 When I'm not wiring up actuators or training models, you'll find me behind a drum kit or sitting quietly under a tree — that's where the best ideas happen.
+
+💡 I believe Africa's robotics revolution isn't coming. **I'm building it.**
 
 ---
 
